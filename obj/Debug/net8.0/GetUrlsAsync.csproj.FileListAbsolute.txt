@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\bin\Debug\net8.0\GetUrlsAsync.exe
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\bin\Debug\net8.0\GetUrlsAsync.deps.json
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\bin\Debug\net8.0\GetUrlsAsync.runtimeconfig.json
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\bin\Debug\net8.0\GetUrlsAsync.dll
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\bin\Debug\net8.0\GetUrlsAsync.pdb
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.AssemblyInfo.cs
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.dll
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\refint\GetUrlsAsync.dll
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.pdb
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\GetUrlsAsync.genruntimeconfig.cache
+C:\Users\Artem\source\repos\GetUrlsAsync\GetUrlsAsync\obj\Debug\net8.0\ref\GetUrlsAsync.dll
